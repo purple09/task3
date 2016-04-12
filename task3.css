@@ -1,0 +1,51 @@
+body{
+	padding: 20px;
+}
+.content {
+	background-color: #eee;
+	overflow: auto;
+	padding: 20px;
+	border: 1px solid #999;
+}
+
+.team-box {
+	float: left;
+	width: 160px;
+	padding: 20px;
+	background-color: white;
+	border: 1px solid #999;
+}
+.team-box p{
+	font-size: 14px;
+	text-align: center;
+	margin: 0 auto;
+}
+.text-box {
+	background-color: white;
+	border: 1px solid #999;
+	margin-left: 220px;
+	margin-right: 140px;
+	padding: 20px;
+}
+
+.personal-box {
+	width: 120px;
+	float: right;
+	background-color: white;
+	border: 1px solid #999;
+}
+.team-box img{
+	width: 80px;
+	height: 80px;
+	float: left;
+}
+.personal-box img{
+	width: 80px;
+	height: 80px;
+	margin: 20px;
+	border: 1px solid #999;
+	display: block;
+}
+.text-box p{
+	font-size: 12px;
+}
